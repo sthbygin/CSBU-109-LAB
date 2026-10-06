@@ -1,0 +1,51 @@
+[
+  {
+    "invoiceCode": "INV-2026-001",
+    "customerName": "John Doe",
+    "customerEmail": "john.doe@example.com",
+    "items": [
+      {
+        "productName": "Mechanical Keyboard K2",
+        "quantity": 1,
+        "price": 120
+      },
+      {
+        "productName": "Wireless Gaming Mouse",
+        "quantity": 2,
+        "price": 60
+      }
+    ],
+    "paymentMethod": "CreditCard"
+  },
+  {
+    "invoiceCode": "INV-2026-002",
+    "customerName": "Jane Smith",
+    "customerEmail": "jane.smith@domain.com",
+    "items": [
+      {
+        "productName": "Ultra-Wide Monitor 34-inch",
+        "quantity": 1,
+        "price": 450
+      }
+    ],
+    "paymentMethod": "BankTransfer"
+  },
+  {
+    "invoiceCode": "INV-2026-003",
+    "customerName": "Michael Brown",
+    "customerEmail": "michael.b@webmail.org",
+    "items": [
+      {
+        "productName": "USB-C Multiport Adapter",
+        "quantity": 3,
+        "price": 35
+      },
+      {
+        "productName": "Laptop Stand Aluminum",
+        "quantity": 1,
+        "price": 45
+      }
+    ],
+    "paymentMethod": "Cash"
+  }
+]
